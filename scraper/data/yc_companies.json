@@ -1,0 +1,35 @@
+[
+  {
+    "yc_company_id": "stripe",
+    "name": "Stripe",
+    "domain": "https://stripe.com",
+    "batch": "W10",
+    "stage": "Public",
+    "description": "Online payments platform",
+    "location": "San Francisco",
+    "tags": ["Fintech", "Payments"],
+    "employee_range": "5000+"
+  },
+  {
+    "yc_company_id": "airbnb",
+    "name": "Airbnb",
+    "domain": "https://airbnb.com",
+    "batch": "W09",
+    "stage": "Public",
+    "description": "Short-term lodging marketplace",
+    "location": "San Francisco",
+    "tags": ["Travel", "Marketplace"],
+    "employee_range": "5000+"
+  },
+  {
+    "yc_company_id": "coinbase",
+    "name": "Coinbase",
+    "domain": "https://coinbase.com",
+    "batch": "S12",
+    "stage": "Public",
+    "description": "Cryptocurrency exchange",
+    "location": "Remote",
+    "tags": ["Crypto", "Finance"],
+    "employee_range": "1000-5000"
+  }
+]
